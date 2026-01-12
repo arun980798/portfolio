@@ -7,7 +7,7 @@ function App() {
 
 
   return (
- <div  className='h-screen w-screen text-white bg-black '>
+ <div  className='h-screen w-screen text-white overflow-x-hidden scrollbar-hide overflow-y-scroll bg-black '>
     <Nav/>
     <Home/>
  </div>
