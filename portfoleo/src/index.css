@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+
+:root{
+  font-size: clamp(14px, 2vw, 22px);
+
+}
